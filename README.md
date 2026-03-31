@@ -20,7 +20,7 @@ These circuits the D flip flop, JK flip flop and the T flip flop.
 ## Lab Questions
 
 ### What is difference between edge and level sensitive circuits?
-    * 
+    * A level circuit stores the input alue as long as its enable signal is high. While the edge stores the input value only when the enable transitions from 'low' to 'high'.
 
 ### Why is it important to declare initial state?
     * 
