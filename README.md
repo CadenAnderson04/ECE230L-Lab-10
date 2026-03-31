@@ -23,6 +23,7 @@ These circuits the D flip flop, JK flip flop and the T flip flop.
     * A level circuit stores the input alue as long as its enable signal is high. While the edge stores the input value only when the enable transitions from 'low' to 'high'.
 
 ### Why is it important to declare initial state?
-    * 
+    * To define a known start-up position for the circuit to have a baseline to direct data initially before any changes occur like loops or steps.
 
 ### What do edge sensitive circuits let us build?
+    * They allow us to build synchronous sequential circuits.
