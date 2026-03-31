@@ -14,6 +14,8 @@ In this lab, you’ve learned about edge sensitive circuits and explored some of
 ## Names
 Caden Anderson, Brolen Gumb
 ## Summary
+We learned how to implement three edge sensitive circuits onto a Basys3 board. 
+These circuits the D flip flop, JK flip flop and the T flip flop.
 
 ## Lab Questions
 
